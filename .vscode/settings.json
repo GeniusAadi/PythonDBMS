@@ -3,5 +3,8 @@
     "code-runner.runInTerminal": true,
     "python.terminal.executeInFileDir": true,
     "python.terminal.focusAfterLaunch": true,
-    "python.terminal.activateEnvInCurrentTerminal": true
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "cSpell.enableFiletypes": [
+        "sql"
+    ]
 }
