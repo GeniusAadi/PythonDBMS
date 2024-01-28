@@ -1,3 +1,4 @@
+#Graphical Project on School Management
 import mysql.connector as mc
 import tkinter as tk
 
